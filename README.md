@@ -26,3 +26,7 @@ To run the Agrobank Voice Assistant locally, follow these steps:
 
 - Streamlit
 - Requests
+
+## Code Review and Demonstration
+
+For a detailed code review and demonstration of the Agrobank Voice Assistant, check out this [video](https://www.youtube.com/watch?v=8If9gseReK0&t=1016s). The video provides insights into the implementation and functionality of the project.
